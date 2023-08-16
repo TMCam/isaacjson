@@ -1,5 +1,9 @@
 [
 	{
-		"path": ["boss rush", "hush", "mom"]
+		"path": {
+			"boss rush",
+			"hush",
+			"mom"
+		}
 	}
 ]
