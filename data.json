@@ -1,14 +1,26 @@
 [
   {
     "Nom": "Objet1",
-    "Image URL": "url1",
-    "Noms": ["Nom1", "Nom2", "Nom3"],
-    "Etoiles": "⭐⭐⭐⭐⭐⭐⭐"
+    "Caractéristiques": {
+      "Taille": "Petit",
+      "Couleur": "Rouge",
+      "Poids": "Léger"
+    }
   },
   {
     "Nom": "Objet2",
-    "Image URL": "url2",
-    "Noms": ["Nom4", "Nom5", "Nom6"],
-    "Etoiles": "⭐⭐⭐⭐⭐⭐⭐"
+    "Caractéristiques": {
+      "Taille": "Moyen",
+      "Couleur": "Bleu",
+      "Poids": "Moyen"
+    }
+  },
+  {
+    "Nom": "Objet3",
+    "Caractéristiques": {
+      "Taille": "Grand",
+      "Couleur": "Vert",
+      "Poids": "Lourd"
+    }
   }
 ]
