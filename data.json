@@ -1,6 +1,6 @@
 [
     {
-        "Noms": [
+        "path": [
             "Boss Rush"
         ]
     },
@@ -73,7 +73,7 @@
         "Image URL": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/b/b9/Achievement_Rock_Bottom_icon.png/revision/latest/scale-to-width-down/45?cb=20210822133302"
     },
     {
-        "Noms": [
+        "path": [
             "Hard mode only",
             "Mom's Heart"
         ]
@@ -147,7 +147,7 @@
         "Image URL": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/a/a1/Achievement_Double_Baby_icon.png/revision/latest/scale-to-width-down/45?cb=20210822133051"
     },
     {
-        "Noms": [
+        "path": [
             "Satan"
         ]
     },
@@ -220,7 +220,7 @@
         "Image URL": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/5/5b/Achievement_Red_Stew_icon.png/revision/latest/scale-to-width-down/45?cb=20210822133141"
     },
     {
-        "Noms": [
+        "path": [
             "Isaac (Boss)"
         ]
     },
@@ -293,7 +293,7 @@
         "Image URL": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/d/d1/Achievement_The_Stairway_icon.png/revision/latest/scale-to-width-down/45?cb=20210822133116"
     },
     {
-        "Noms": [
+        "path": [
             "The Lamb"
         ]
     },
@@ -366,7 +366,7 @@
         "Image URL": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/3/3e/Achievement_Damocles_icon.png/revision/latest/scale-to-width-down/45?cb=20210822133232"
     },
     {
-        "Noms": [
+        "path": [
             "??? (Boss)"
         ]
     },
@@ -439,7 +439,7 @@
         "Image URL": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/9/9b/Achievement_Birthright_icon.png/revision/latest/scale-to-width-down/45?cb=20210822133206"
     },
     {
-        "Noms": [
+        "path": [
             "Greed and greedier modes only",
             "Ultra Greed"
         ]
@@ -513,7 +513,7 @@
         "Image URL": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/9/95/Achievement_Inner_Child_icon.png/revision/latest/scale-to-width-down/45?cb=20210822133339"
     },
     {
-        "Noms": [
+        "path": [
             "Greedier mode only",
             "Ultra Greedier"
         ]
@@ -587,7 +587,7 @@
         "Image URL": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/1/10/Achievement_Genesis_icon.png/revision/latest/scale-to-width-down/45?cb=20210822133428"
     },
     {
-        "Noms": [
+        "path": [
             "Hush"
         ]
     },
@@ -660,7 +660,7 @@
         "Image URL": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/4/48/Achievement_Vanishing_Twin_icon.png/revision/latest/scale-to-width-down/45?cb=20210822133404"
     },
     {
-        "Noms": [
+        "path": [
             "Delirium"
         ]
     },
@@ -733,7 +733,7 @@
         "Image URL": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/b/b9/Achievement_Suplex%21_icon.png/revision/latest/scale-to-width-down/45?cb=20210822133453"
     },
     {
-        "Noms": [
+        "path": [
             "Mother"
         ]
     },
@@ -806,7 +806,7 @@
         "Image URL": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/0/01/Achievement_Magic_Skin_icon.png/revision/latest/scale-to-width-down/45?cb=20210822134912"
     },
     {
-        "Noms": [
+        "path": [
             "The Beast"
         ]
     },
@@ -879,7 +879,7 @@
         "Image URL": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/3/3e/Achievement_Friend_Finder_icon.png/revision/latest/scale-to-width-down/45?cb=20210822134936"
     },
     {
-        "Noms": [
+        "path": [
             "Mega Satan"
         ]
     },
@@ -952,7 +952,7 @@
         "Image URL": "https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/6/68/Achievement_Illusion_Baby_icon.png/revision/latest/scale-to-width-down/45?cb=20210822133542"
     },
     {
-        "Noms": [
+        "path": [
             "Hard mode only"
         ]
     },
