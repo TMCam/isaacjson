@@ -1,22 +1,22 @@
 [
   {
-    "Type": "Item",
+    "characters": "isaac",
     "Item": "Objet1",
     "Path": "Chemin1"
   },
   {
-    "Type": "Item",
+    "Type": "???",
     "Item": "Objet2",
     "Path": "Chemin2"
   },
   {
-    "Type": "Path",
-    "Path": "Chemin1",
-    "Noms": ["Nom1", "Nom2", "Nom3"]
+    "Type": "magda",
+    "Item": "Objet3",
+    "Path": "Chemin1"
   },
   {
-    "Type": "Path",
-    "Path": "Chemin2",
-    "Noms": ["Nom4", "Nom5", "Nom6"]
+    "Type": "lost",
+    "Item": "Objet4",
+    "Path": "Chemin2"
   }
 ]
