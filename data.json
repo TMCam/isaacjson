@@ -1,12 +1,12 @@
 [
   {
     "Personnage": "Isaac",
-    "Bossrush": ["Exemple1", "Exemple2"],
-    "Hush": ["Exemple3", "Exemple4"]
+    "Bossrush": ["Exemple1"],
+    "Hush": ["Exemple3"]
   },
   {
     "Personnage": "Magdalene",
-    "Bossrush": ["Exemple5", "Exemple6"],
-    "Hush": ["Exemple7", "Exemple9"]
+    "Bossrush": ["Exemple5"],
+    "Hush": ["Exemple7"]
   }
 ]
