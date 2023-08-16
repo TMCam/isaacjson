@@ -1,26 +1,12 @@
 [
   {
-    "Nom": "Objet1",
-    "Caractéristiques": {
-      "Taille": "Petit",
-      "Couleur": "Rouge",
-      "Poids": "Léger"
-    }
+    "Personnage": "Isaac",
+    "Bossrush": ["Exemple1", "Exemple2"],
+    "Hush": ["Exemple3", "Exemple4"]
   },
   {
-    "Nom": "Objet2",
-    "Caractéristiques": {
-      "Taille": "Moyen",
-      "Couleur": "Bleu",
-      "Poids": "Moyen"
-    }
-  },
-  {
-    "Nom": "Objet3",
-    "Caractéristiques": {
-      "Taille": "Grand",
-      "Couleur": "Vert",
-      "Poids": "Lourd"
-    }
+    "Personnage": "Magdalene",
+    "Bossrush": ["Exemple5", "Exemple6"],
+    "Hush": ["Exemple7", "Exemple8"]
   }
 ]
