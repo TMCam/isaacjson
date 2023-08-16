@@ -953,81 +953,81 @@
     },
     {
         "path": "Boss Rush",
-        "Noms": [
+        "items": [
             "Boss Rush"
         ]
     },
     {
         "path": "Hard mode only",
-        "Noms": [
+        "items": [
             "Hard mode only"
         ]
     },
     {
         "path": "Satan",
-        "Noms": [
+        "items": [
             "Satan"
         ]
     },
     {
         "path": "Isaac (Boss)",
-        "Noms": [
+        "items": [
             "Isaac (Boss)"
         ]
     },
     {
         "path": "The Lamb",
-        "Noms": [
+        "items": [
             "The Lamb"
         ]
     },
     {
         "path": "??? (Boss)",
-        "Noms": [
+        "items": [
             "??? (Boss)"
         ]
     },
     {
         "path": "Greed and greedier modes only",
-        "Noms": [
+        "items": [
             "Greed and greedier modes only",
             "Ultra Greed"
         ]
     },
     {
         "path": "Greedier mode only",
-        "Noms": [
+        "items": [
             "Greedier mode only",
             "Ultra Greedier"
         ]
     },
     {
         "path": "Hush",
-        "Noms": [
+        "items": [
             "Hush"
         ]
     },
     {
         "path": "Delirium",
-        "Noms": [
+        "items": [
             "Delirium"
         ]
     },
     {
         "path": "Mother",
-        "Noms": [
+        "items": [
             "Mother"
         ]
     },
     {
         "path": "The Beast",
-        "Noms": [
+        "items": [
             "The Beast"
         ]
     },
     {
         "path": "Mega Satan",
-        "Noms": [
+        "items": [
             "Mega Satan"
         ]
     }
