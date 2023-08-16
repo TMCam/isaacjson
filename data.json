@@ -5,17 +5,17 @@
     "Path": "Chemin1"
   },
   {
-    "Type": "???",
+    "characters": "???",
     "Item": "Objet2",
     "Path": "Chemin2"
   },
   {
-    "Type": "magda",
+    "characters": "magda",
     "Item": "Objet3",
     "Path": "Chemin1"
   },
   {
-    "Type": "lost",
+    "characters": "lost",
     "Item": "Objet4",
     "Path": "Chemin2"
   }
